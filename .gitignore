@@ -5,6 +5,4 @@ build/
 *.pyc
 .venv/
 uv.lock
-*.png
-*.svg
 .DS_Store
